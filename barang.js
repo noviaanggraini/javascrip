@@ -1,4 +1,4 @@
-var gbr = "https://drive.google.com/drive/folders/1xQRwkTrjF6oQsyySubYhd_6MC5UiCNkX/";
+var gbr = "http://localhost/praktikum4/gambar/";
 var brg = [
 	{
 		nama:'Alat Tulis',
